@@ -56,3 +56,17 @@ Representa una segunda alternativa de mejora, incorporando modificaciones adicio
 ## Objetivo
 
 Este repositorio tiene como propósito almacenar y documentar los modelos empleados durante el proceso de construcción, calibración, validación y evaluación de escenarios de mejora del sistema analizado, facilitando la reproducibilidad y el seguimiento del estudio.
+
+## Herramientas utilizadas
+
+El desarrollo, análisis y documentación de este trabajo se apoyó en las siguientes herramientas:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SIMUL8-Simulation-blue?style=for-the-badge" alt="SIMUL8"/>
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+</p>
+
+- **SIMUL8**: modelado y ejecución de la simulación de eventos discretos.
+- **RStudio**: análisis estadístico, procesamiento de datos y validación de resultados.
+- **Microsoft Excel**: organización de datos, análisis complementario y presentación de resultados.
